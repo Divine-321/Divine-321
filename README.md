@@ -1,6 +1,6 @@
-# Hi, I'm Edward Amarachi Favour 👋
+# Hello, I'm Edward Amarachi Favour 
 
-**Frontend Developer** · Abuja, Nigeria · Open to remote roles
+**Frontend Developer** · Abuja, Nigeria · Open to remote, hybrid and contract roles
 
 I build responsive, production-ready web applications with **Next.js, React, TypeScript and Tailwind CSS**, and I turn real problems into working solutions. First Class B.Sc. in Computer Science from Redeemer's University.
 
